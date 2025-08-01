@@ -1,0 +1,14 @@
+*.o
+*/*.o
+obj/*
+*/console
+*/myReadKey
+*/mySimpleComputer
+*/myTerm
+*/myBigChars
+*/*.a
+*/pr*
+*/debug
+*/font
+*/font.bin
+*/simpleassembler
